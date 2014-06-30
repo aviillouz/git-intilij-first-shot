@@ -8,5 +8,6 @@ public class FirstClasss {
         System.out.println("It's my first try with git");
         System.out.println("Hope that it works");
         //It does don't work!
+        System.out.println("Ok, this file was updated");
     }
 }

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72744315-9c28-407f-80b7-b1d472178c3d" name="Default" comment="Initial commit&#10;">
+    <list default="true" id="72744315-9c28-407f-80b7-b1d472178c3d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FirstClasss.java" afterPath="$PROJECT_DIR$/src/FirstClasss.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="git-intilij-first-shot.iws" />
@@ -71,7 +70,7 @@
       <file leaf-file-name="FirstClasss.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FirstClasss.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="4" selection-start="219" selection-end="219" vertical-scroll-proportion="0.5665236" vertical-offset="0" max-vertical-offset="561">
+            <state line="9" column="18" selection-start="283" selection-end="283" vertical-scroll-proportion="0.63733906" vertical-offset="0" max-vertical-offset="594">
               <folding />
             </state>
           </provider>
@@ -359,6 +358,11 @@
       <created>1404127285903</created>
       <updated>1404127285903</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;">
+      <created>1404127984385</created>
+      <updated>1404127984385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -415,7 +419,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/FirstClasss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="219" selection-end="219" vertical-scroll-proportion="0.5665236" vertical-offset="0" max-vertical-offset="561">
+        <state line="9" column="18" selection-start="283" selection-end="283" vertical-scroll-proportion="0.63733906" vertical-offset="0" max-vertical-offset="594">
           <folding />
         </state>
       </provider>
